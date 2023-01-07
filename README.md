@@ -1,2 +1,3 @@
 # ReactTaskPad
-Simple Todo App using reactNative
+Simple Todo App using #ReactNative
+
